@@ -12,7 +12,7 @@ export default function Contact() {
       <div className="flex flex-col items-center bg-gradient-to-r from-pink-200 via-green-200 to-yellow-200 rounded-xl shadow-md p-6 mt-8 w-full max-w-md">
         <h2 className="text-xl font-bold text-green-700 mb-2">Or reach us directly:</h2>
         <div className="flex flex-col gap-2 text-gray-700 text-lg">
-          <span><strong>Mobile:</strong> +94 77 123 4567</span>
+          <span><strong>Mobile:</strong>+94 70 111 1102</span>
           <span><strong>Email:</strong> infor.zesnyceylon@gmail.com</span>
         </div>
       </div>
