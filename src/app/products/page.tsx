@@ -5,8 +5,8 @@ export default function Products() {
       <p className="text-lg text-gray-700 mb-8 text-center max-w-2xl">Explore our range of homemade teas, crafted with care and bursting with flavor. Perfect for every tea lover!</p>
       <div className="flex flex-wrap gap-8 justify-center items-center">
         <div className="flex flex-col items-center bg-white rounded-xl shadow-md p-6 w-60">
-          <img src="/globe.svg" alt="Classic Black Tea" className="w-20 h-20 mb-4" />
-          <span className="font-bold text-lg text-yellow-600">Classic Black Tea</span>
+          <img src="/dust-num-01.jpeg" alt="Black OP Dut 01" className="w-20 h-20 mb-4" />
+          <span className="font-bold text-lg text-yellow-600">Black OP Dut 01</span>
           <span className="text-gray-500">Rich, bold, and energizing</span>
         </div>
         <div className="flex flex-col items-center bg-white rounded-xl shadow-md p-6 w-60">
