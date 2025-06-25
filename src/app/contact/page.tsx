@@ -13,7 +13,7 @@ export default function Contact() {
         <h2 className="text-xl font-bold text-green-700 mb-2">Or reach us directly:</h2>
         <div className="flex flex-col gap-2 text-gray-700 text-lg">
           <span><strong>Mobile:</strong> +94 77 123 4567</span>
-          <span><strong>Email:</strong> tea@example.com</span>
+          <span><strong>Email:</strong> infor.zesnyceylon@gmail.com</span>
         </div>
       </div>
       <img src="/vercel.svg" alt="Contact Tea" className="w-24 h-24 mt-8 bg-white rounded-full p-4 shadow-md" />
