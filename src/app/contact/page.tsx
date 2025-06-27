@@ -2,7 +2,7 @@ export default function Contact() {
   return (
     <div className="flex flex-col items-center justify-center min-h-[70vh] px-4 py-10 bg-gradient-to-br from-pink-100 via-green-100 to-yellow-100 rounded-xl shadow-lg">
       <h1 className="text-4xl font-extrabold text-green-700 mb-4 drop-shadow-lg text-center">Contact Us</h1>
-      <p className="text-lg text-gray-700 mb-8 text-center max-w-2xl">Have questions or want to place an order? Reach out to us and we'll get back to you soon!</p>
+      <p className="text-lg text-gray-700 mb-8 text-center max-w-2xl">For more information about our exclusive range of handmade Ceylon teas, please reach out using the contact details below. We specialize in artisanal teas crafted with care, and we're here to assist with any inquiries related to our products or export services.</p>
       <form className="flex flex-col gap-4 bg-white rounded-xl shadow-md p-8 w-full max-w-md">
         <input type="text" placeholder="Your Name" className="p-3 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-pink-300" />
         <input type="email" placeholder="Your Email" className="p-3 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-pink-300" />
