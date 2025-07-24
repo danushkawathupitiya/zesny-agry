@@ -7,7 +7,15 @@ export default function Products() {
         <div className="flex flex-col items-center bg-white rounded-xl shadow-md p-6 w-60">
           <img src="/dust-num-01.jpeg" alt="Black OP Dut 01" className="w-20 h-20 mb-4" />
           <span className="font-bold text-lg text-yellow-600">Black OP Dut 01</span>
-          <span className="text-gray-500">Rich, bold, and energizing</span>
+          <span className="text-gray-500">Single-Origin: Grown at 3,500 ft in the misty highlands of Kothmale, Sri Lanka
+            Handcrafted: Expertly handpicked and traditionally rolled for full flavor
+            Pure & Natural: No additives, no blending—100% authentic black tea
+            Flavor Notes: Smooth, malty taste with subtle hints of honey and spice
+            Fresh & Uplifting: Crisp mountain-grown tea, rich in aroma and heritage
+                True Sri Lankan Tradition: A serene cup rooted in generations of tea-making craftsmanship
+
+
+          </span>
         </div>
         <div className="flex flex-col items-center bg-white rounded-xl shadow-md p-6 w-60">
           <img src="/file.svg" alt="Herbal Green Tea" className="w-20 h-20 mb-4" />
