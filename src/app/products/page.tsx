@@ -18,8 +18,8 @@ export default function Products() {
           </span>
         </div>
         <div className="flex flex-col items-center bg-white rounded-xl shadow-md p-6 w-60">
-          <img src="/file.svg" alt="Herbal Green Tea" className="w-20 h-20 mb-4" />
-          <span className="font-bold text-lg text-yellow-600">Herbal Green Tea</span>
+          <img src="/file.svg" alt="zesny Green Tea" className="w-20 h-20 mb-4" />
+          <span className="font-bold text-lg text-yellow-600">zesny Green Tea</span>
           <span className="text-gray-500">Fresh, soothing, and healthy</span>
         </div>
         <div className="flex flex-col items-center bg-white rounded-xl shadow-md p-6 w-60">
