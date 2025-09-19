@@ -14,6 +14,9 @@ export default function Contact() {
         <div className="flex flex-col gap-2 text-gray-700 text-lg">
           <span><strong>Mobile:</strong>+94 70 111 1102</span>
           <span><strong>Email:</strong> infor.zesnyceylon@gmail.com</span>
+          <span>
+                <a target="_blank" href="https://www.google.com/maps/place/Zesny+Agri+Products+Ceylon/@7.0427289,80.5748761,176m/data=!3m1!1e3!4m12!1m5!8m4!1e2!2s108104185126123123468!3m1!1e1!3m5!1s0x3ae377000fc6756d:0x62f2e39eaa29ea28!8m2!3d7.0426956!4d80.5760375!16s%2Fg%2F11xky4ckws!10m1!2e10?hl=en&entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D">Location</a>
+          </span>
         </div>
       </div>
       <img src="/vercel.svg" alt="Contact Tea" className="w-24 h-24 mt-8 bg-white rounded-full p-4 shadow-md" />
